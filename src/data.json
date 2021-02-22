@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Product First",
+        "description": "Description First",
+        "price": 1000,
+        "review": "4.4 (20)",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMjA3fDB8MXxzZWFyY2h8MXx8cHJvZHVjdHx8MHx8fA&ixlib=rb-1.2.1&q=80&w=1080",
+        "sizes": [
+            {
+                "name": "Small",
+                "description": "Small Description",
+                "count": 100,
+                "price": 1000
+            },
+            {
+                "name": "Medium",
+                "description": "Medium Description",
+                "count": 50,
+                "price": 1100
+            },
+            {
+                "name": "Large",
+                "description": "Large Description",
+                "count": 20,
+                "price": 1200
+            },
+            {
+                "name": "Extra Large",
+                "description": "Extra Large Description",
+                "count": 10,
+                "price": 1300
+            },
+            {
+                "name": "Double Extra Large",
+                "description": "Double Extra Large Description",
+                "count": 5,
+                "price": 1400
+            }
+        ]
+    },
+    {
+        "name": "Product Second",
+        "description": "Description Second",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "sizes": [
+            {
+                "name": "Small",
+                "description": "Small Description",
+                "count": 10,
+                "price": 100
+            },
+            {
+                "name": "Medium",
+                "description": "Medium Description",
+                "count": 5,
+                "price": 110
+            },
+            {
+                "name": "Large",
+                "description": "Large Description",
+                "count": 2,
+                "price": 120
+            },
+            {
+                "name": "Extra Large",
+                "description": "Extra Large Description",
+                "count": 1,
+                "price": 130
+            }
+        ]
+    }
+]
